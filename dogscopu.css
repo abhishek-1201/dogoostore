@@ -1,0 +1,65 @@
+body{
+    margin:0px;
+    padding: 0%;
+    background-color:#61f4de;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mt-2, .my-2 {
+    margin-top: 0rem!important;
+}
+.top{
+    background-color: #61f4de;
+}
+.top-row{
+    padding-top: 50px;
+}
+.get{
+    background-color:rgb(240, 177, 41) ;
+}
+.call{
+    font-size: large;
+}
+.call:hover{
+    color: white;
+}
+.nav-head{
+    font-size: 40px;
+    font-weight: bold;
+}
+.middle{
+    background-color: #61f4de;
+}
+.comment{
+    background-color: #6e78ff;
+    height: 500px;
+}
+.comment-img{ 
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.sponser-img{
+    position: relative;
+    top: 300px;
+    width: 200px;
+}
+.price-heading{
+    font-size: 40px;
+}
+.price img{
+border-radius: 50%;
+    height: 400px;
+    width:400px;
+}
+.price button:hover{
+background-color: white;
+color: black;
+}
+h1{
+    font-weight: bold;
+}
+.ending{
+    background-color:rgb(240, 177, 41) ;
+}
